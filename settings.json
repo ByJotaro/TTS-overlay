@@ -1,0 +1,16 @@
+{
+    "output_device_index": 1,
+    "mic_device_index": 5,
+    "output_volume": 0.0,
+    "mic_volume": 2.0,
+    "voice_id": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Speech\\Voices\\Tokens\\IVONA OEM NextUp OpenSAPI maxim22",
+    "tts_engine": "local",
+    "voicerss_language": "ru-ru",
+    "voicerss_voice": "",
+    "voicerss_api_key": "",
+    "voice_chat_key": "q",
+    "history_hotkey_modifier": "alt",
+    "remove_queue": true,
+    "toggle_visibility_key": "alt+c",
+    "focus_window_key": "q"
+}
